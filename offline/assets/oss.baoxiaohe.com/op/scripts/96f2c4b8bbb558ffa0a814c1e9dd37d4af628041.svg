@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="16px" viewBox="0 0 34 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>NEW备份</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="场景模板备份-4" transform="translate(-689.000000, -126.000000)">
+            <g id="分享弹窗" transform="translate(590.000000, 126.000000)">
+                <g id="NEW备份" transform="translate(99.000000, 0.000000)">
+                    <path d="M4,0 L30,0 C32.209139,-4.05812251e-16 34,1.790861 34,4 L34,12 C34,14.209139 32.209139,16 30,16 L0,16 L0,16 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="矩形" fill="#2ED573"></path>
+                    <g id="NEW" transform="translate(3.924000, 3.672000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <polygon id="路径" points="0 8.328 1.8 8.328 1.8 1.992 1.872 1.992 4.752 8.328 7.26 8.328 7.26 0 5.472 0 5.472 5.952 5.4 5.952 2.784 0 0 0"></polygon>
+                        <polygon id="路径" points="10.932 6.744 10.932 4.824 13.956 4.824 13.956 3.3 10.932 3.3 10.932 1.584 14.196 1.584 14.196 0 9.108 0 9.108 8.328 14.364 8.328 14.364 6.744"></polygon>
+                        <polygon id="路径" points="16.956 8.328 19.236 8.328 20.544 3.048 20.616 3.048 21.9 8.328 24.18 8.328 26.088 0 24.204 0 22.98 6.156 22.908 6.156 21.708 0.804 19.596 0.804 18.324 6.156 18.252 6.156 17.052 0 15.144 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "type": "1k",
+      "last": -1,
+      "total": -1
+    },
+    {
+      "type": "2k",
+      "last": 99,
+      "total": 99
+    },
+    {
+      "type": "3k",
+      "last": 99,
+      "total": 99
+    },
+    {
+      "type": "4k",
+      "last": 99,
+      "total": 99
+    },
+    {
+      "type": "8k",
+      "last": 0,
+      "total": 0
+    }
+  ],
+  "msg": "success",
+  "time": 1790172421
+}

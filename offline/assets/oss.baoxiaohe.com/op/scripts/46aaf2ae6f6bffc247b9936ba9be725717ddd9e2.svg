@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="12px" viewBox="0 0 24 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pro-tx</title>
+    <defs>
+        <linearGradient x1="91.7711988%" y1="62.5%" x2="-23.4466766%" y2="43.765487%" id="linearGradient-1">
+            <stop stop-color="#8B3EFE" offset="0%"></stop>
+            <stop stop-color="#5841CD" offset="22.2222332%"></stop>
+            <stop stop-color="#4D32B3" offset="53.7643137%"></stop>
+            <stop stop-color="#643CC5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M3,0 L24,0 L24,0 L24,9 C24,10.6568542 22.6568542,12 21,12 L0,12 L0,12 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="path-2"></path>
+        <path d="M14.2825855,2.57142857 C15.1085595,2.57142857 15.42118,2.99470899 15.2204469,3.84126984 L14.9193472,5.11111111 C14.7186141,5.95767196 14.4117541,6.38095238 13.998767,6.38095238 L13.9407733,9.23809524 L12.392072,9.23809524 L12.4041355,6.6984127 L11.4599326,6.6984127 L10.8577333,9.23809524 L9.30903192,9.23809524 L10.8898052,2.57142857 L14.2825855,2.57142857 Z M9.25926787,2.57142857 C10.0852419,2.57142857 10.3978624,2.99470899 10.1971293,3.84126984 L9.82075468,5.42857143 C9.62002157,6.27513228 9.10666799,6.6984127 8.28069395,6.6984127 L6.43661494,6.6984127 L5.83441561,9.23809524 L4.28571429,9.23809524 L5.2642882,5.11111111 L8.34732827,5.11111111 L8.57315302,4.15873016 L5.49011295,4.15873016 L5.86648753,2.57142857 L9.25926787,2.57142857 Z M19.3226841,2.57142857 C20.1486581,2.57142857 20.4612786,2.99470899 20.2605455,3.84126984 L19.2819716,7.96825397 C19.0812384,8.81481481 18.5678849,9.23809524 17.7419108,9.23809524 L15.5834693,9.23809524 C14.7574953,9.23809524 14.4448748,8.81481481 14.6456079,7.96825397 L15.6241818,3.84126984 C15.8249149,2.99470899 16.3382685,2.57142857 17.1642426,2.57142857 L19.3226841,2.57142857 Z M18.6365692,4.15873016 L17.0976082,4.15873016 L16.2695842,7.65079365 L17.8085451,7.65079365 L18.6365692,4.15873016 Z M13.5964707,4.15873016 L12.0621319,4.15873016 L11.8363072,5.11111111 L13.3706459,5.11111111 L13.5964707,4.15873016 Z" id="path-4"></path>
+        <filter x="-18.7%" y="-45.0%" width="137.4%" height="190.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="等级角标调整" transform="translate(-4537.000000, -3587.000000)">
+            <g id="模板详情" transform="translate(2594.000000, 3535.000000)">
+                <g id="pro-tx" transform="translate(1943.000000, 52.000000)">
+                    <g id="背板">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="形状结合" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="#FEEDD4" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

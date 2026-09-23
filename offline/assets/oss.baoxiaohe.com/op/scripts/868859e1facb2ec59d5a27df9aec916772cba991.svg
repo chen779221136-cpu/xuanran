@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 16备份 5</title>
+    <defs>
+        <rect id="path-1" x="9.89583333" y="9.89583333" width="11.4583333" height="11.4583333" rx="1.04166667"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1.5625" y="-1.5625" width="14.5833333" height="14.5833333">
+            <rect x="8.33333333" y="8.33333333" width="14.5833333" height="14.5833333" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.7">
+        <g id="背景换颜色" transform="translate(-1530.000000, -545.000000)">
+            <g id="右侧栏备份" transform="translate(1430.000000, 54.000000)">
+                <g id="属性" transform="translate(0.000000, 35.000000)">
+                    <g id="操作栏" transform="translate(0.000000, 393.000000)">
+                        <g id="编组-11" transform="translate(10.000000, 53.000000)">
+                            <g id="编组-26备份" transform="translate(80.000000, 0.000000)">
+                                <g id="编组-16备份-5" transform="translate(10.000000, 10.000000)">
+                                    <rect id="矩形" x="0" y="0" width="50" height="50"></rect>
+                                    <g id="编组-18" transform="translate(9.375000, 9.375000)">
+                                        <use id="矩形备份-86" stroke="#565A60" mask="url(#mask-2)" stroke-width="3.125" opacity="0.6" stroke-dasharray="2.083333134651184,1.5625" xlink:href="#path-1"></use>
+                                        <path d="M1.23106061,1.23106061 L9.17758102,9.17758102 M22.0643939,22.0643939 L30.0109144,30.0109144" id="形状结合" stroke="#565A60" stroke-width="1.5625" opacity="0.6" stroke-dasharray="2.083333134651184,1.041666567325592"></path>
+                                        <path d="M1.23106061,1.23106061 L9.17758102,9.17758102 M22.0643939,22.0643939 L30.0109144,30.0109144" id="形状结合备份-25" stroke="#565A60" stroke-width="1.5625" opacity="0.6" stroke-dasharray="2.083333134651184,1.041666567325592" transform="translate(15.625000, 15.625000) scale(-1, 1) translate(-15.625000, -15.625000) "></path>
+                                        <path d="M29.1666667,0 C30.3172599,0 31.25,0.932740105 31.25,2.08333333 L31.25,29.1666667 C31.25,30.3172599 30.3172599,31.25 29.1666667,31.25 L2.08333333,31.25 C0.932740105,31.25 0,30.3172599 0,29.1666667 L0,2.08333333 C0,0.932740105 0.932740105,0 2.08333333,0 L29.1666667,0 Z M29.1666667,2.08333333 L2.08333333,2.08333333 L2.08333333,29.1666667 L29.1666667,29.1666667 L29.1666667,2.08333333 Z" id="矩形" fill="#565A60" fill-rule="nonzero"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

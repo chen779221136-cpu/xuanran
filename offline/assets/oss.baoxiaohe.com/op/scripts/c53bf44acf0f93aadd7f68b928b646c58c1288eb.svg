@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>太阳光</title>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="100%" id="radialGradient-1">
+            <stop stop-color="#FFAA14" offset="0%"></stop>
+            <stop stop-color="#FFD400" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-65.5%" y="-65.5%" width="230.9%" height="230.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="100%" id="radialGradient-3">
+            <stop stop-color="#FF7714" offset="0%"></stop>
+            <stop stop-color="#FFD400" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50.5299388%" fx="50%" fy="50.5299388%" r="56.3505608%" id="radialGradient-4">
+            <stop stop-color="#FFCF00" offset="0%"></stop>
+            <stop stop-color="#FFD400" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="光影/环境光设置" transform="translate(-93.000000, -91.000000)">
+            <g id="右侧栏备份" transform="translate(0.000000, 43.000000)">
+                <g id="编组-3" transform="translate(10.000000, 45.000000)">
+                    <g id="编组-26" transform="translate(80.000000, 0.000000)">
+                        <g id="太阳光" transform="translate(5.000000, 5.000000)">
+                            <rect id="矩形" x="0" y="0" width="60" height="60"></rect>
+                            <circle id="椭圆形" fill="url(#radialGradient-1)" filter="url(#filter-2)" cx="30" cy="30" r="13.75"></circle>
+                            <circle id="椭圆形备份-3" fill="url(#radialGradient-3)" cx="30" cy="30" r="13.75"></circle>
+                            <path d="M30,6.25 L30,12.5 M30,47.5 L30,53.75 M53.75,30 L47.5,30 M12.5,30 L6.25,30 M46.7937861,13.2062139 L42.3743687,17.6256313 M17.6256313,42.3743687 L13.2062139,46.7937861 M46.7937861,46.7937861 L42.3743687,42.3743687 M17.6256313,17.6256313 L13.2062139,13.2062139" id="形状结合" stroke="url(#radialGradient-4)" stroke-linecap="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <defs>
+        <pattern id="pattern-1" width="100%" height="100%" patternUnits="objectBoundingBox">
+            <use xlink:href="#image-2"></use>
+        </pattern>
+        <image id="image-2" width="14" height="14" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAADqADAAQAAAABAAAADgAAAAC98Dn6AAAB1ElEQVQoFUWS3W7UMBCFj+2xk2w2TbsUJHpb0XfoLRLv1nfiGYCn6CWIBXWT9S9nsitxMbLjzOczxzPm88vXZkqAzR1C8piiw3x2uNVYhXH5nqJFnwFfK6Q2hkRYAK0ZpGYRi0W2DY1nXJhgEIpBx5Ar5JrCLirG0MViFYfoLJi3gYHgkO0GXdQU0vArMwqaqRubmsOSCFLOsYqB+640qlaWWbZS3VaqXyiUYCwN2Av8p3jEkyYb3GzeMuEMT1iaXlioGE5AdTD1jJbP3GrpwN+3D9tD7WPGmBIvYbKskLDAMkfsfqE3g0YvtbLE5JCHI14JP/64wfv8G930E0JLxmllBYa2xE5U5ENQkj8Ywh+7Fc+H73h+CsA3g/h2QIk9LxYKOHaAj6WKCkAyXJdwLw2fuoIvY8bx0WKGILz+Ao68nMXV1KPkQHBc4AnuXcMd46OveOoqm22w+Ib54dqqQY0b2GWFjfQ6+4KREzATOkjFA8F7rsLXZPtwChW7g44I/bAadNyuHIY7fuzZMwXfXVVH/uOWQ9CQuKm7BnbsAjsuZGQmpGXeMhTWSygIMts8qWrkeT9SkY3flHkmCk0KM0bGwENLf/rQ7NI2QdkaFPp1/X/4Hy9V9bVPhG4oAAAAAElFTkSuQmCC"></image>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-布局交互优化-场景" transform="translate(-1529.000000, -170.000000)">
+            <g id="右侧栏" transform="translate(1430.000000, 54.000000)">
+                <g id="属性" transform="translate(0.000000, 35.000000)">
+                    <g id="背景" transform="translate(10.000000, 52.000000)">
+                        <g id="编组-26" transform="translate(60.000000, 0.000000)">
+                            <g id="编组" transform="translate(29.000000, 29.000000)">
+                                <polygon id="路径" points="0 0 16 0 16 16 0 16"></polygon>
+                                <path d="M8,1.33333333 C11.6813333,1.33333333 14.6666667,3.98533333 14.6666667,7.25933333 C14.6655629,9.30443081 13.0077643,10.9619311 10.9626667,10.9626667 L9.652,10.9626667 C9.03733333,10.9626667 8.54066667,11.4593333 8.54066667,12.074 C8.54066667,12.3553333 8.652,12.6146667 8.822,12.8073333 C9,13.0073333 9.11133333,13.2666667 9.11133333,13.5553333 C9.11133333,14.1706667 8.6,14.6666667 8,14.6666667 C4.31866667,14.6666667 1.33333333,11.6813333 1.33333333,8 C1.33333333,4.31866667 4.31866667,1.33333333 8,1.33333333 Z" id="形状" fill="url(#pattern-1)"></path>
+                                <path d="M5,8 C5.55228475,8 6,7.55228475 6,7 C6,6.44771525 5.55228475,6 5,6 C4.44771525,6 4,6.44771525 4,7 C4,7.55228475 4.44771525,8 5,8 Z M11,8 C11.5522847,8 12,7.55228475 12,7 C12,6.44771525 11.5522847,6 11,6 C10.4477153,6 10,6.44771525 10,7 C10,7.55228475 10.4477153,8 11,8 Z M8,6 C8.55228475,6 9,5.55228475 9,5 C9,4.44771525 8.55228475,4 8,4 C7.44771525,4 7,4.44771525 7,5 C7,5.55228475 7.44771525,6 8,6 Z" id="形状结合" fill="#FFFFFF"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

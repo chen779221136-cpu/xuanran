@@ -1,0 +1,1022 @@
+{
+  "code": 200,
+  "data": {
+    "base": {
+      "count": 12,
+      "rows": [
+        {
+          "id": 160,
+          "name": "立方体",
+          "remark": "",
+          "cateId": 1,
+          "cover": "//yun.baoxiaohe.com/op-material/0aa78ab9-9367-4c5c-a406-1ca2d8e3508d.png",
+          "sort": 1,
+          "keywords": "",
+          "minFilePath": "//yun.baoxiaohe.com/render-hdr/6b20ac8b-e3e0-4236-824e-5e70da784a03.glb",
+          "filePath": "//yun.baoxiaohe.com/render-hdr/6b20ac8b-e3e0-4236-824e-5e70da784a03.glb",
+          "meshType": "base",
+          "size": "",
+          "collect": null
+        },
+        {
+          "id": 159,
+          "name": "圆柱体",
+          "remark": "",
+          "cateId": 1,
+          "cover": "//yun.baoxiaohe.com/op-material/3da55856-247b-4820-8355-4f615b2681f5.png",
+          "sort": 2,
+          "keywords": "",
+          "minFilePath": "//yun.baoxiaohe.com/render-hdr/30473d11-4796-47f7-bbdf-c1a0d720e9e9.glb",
+          "filePath": "//yun.baoxiaohe.com/render-hdr/30473d11-4796-47f7-bbdf-c1a0d720e9e9.glb",
+          "meshType": "base",
+          "size": "",
+          "collect": null
+        },
+        {
+          "id": 169,
+          "name": "球体",
+          "remark": "",
+          "cateId": 1,
+          "cover": "//yun.baoxiaohe.com/op-material/db5e5454-d0fd-4ccc-b553-db5527a074c1.png",
+          "sort": 3,
+          "keywords": "",
+          "minFilePath": "//yun.baoxiaohe.com/render-hdr/7bb8e4ff-d126-415c-9c6c-24b81a3f94ad.glb",
+          "filePath": "//yun.baoxiaohe.com/render-hdr/7bb8e4ff-d126-415c-9c6c-24b81a3f94ad.glb",
+          "meshType": "base",
+          "size": "",
+          "collect": null
+        },
+        {
+          "id": 162,
+          "name": "管状体",
+          "remark": "",
+          "cateId": 1,
+          "cover": "//yun.baoxiaohe.com/op-material/5599674d-4ff3-4791-af43-c1d151d25e3f.png",
+          "sort": 4,
+          "keywords": "",
+          "minFilePath": "//yun.baoxiaohe.com/render-hdr/1903a6db-2c10-4032-a2df-3b7e27d4694a.glb",
+          "filePath": "//yun.baoxiaohe.com/render-hdr/1903a6db-2c10-4032-a2df-3b7e27d4694a.glb",
+          "meshType": "base",
+          "size": "",
+          "collect": null
+        },
+        {
+          "id": 163,
+          "name": "切角圆柱体",
+          "remark": "",
+          "cateId": 1,
+          "cover": "//yun.baoxiaohe.com/op-material/ac042209-6c82-4efd-b842-5071f0569f26.png",
+          "sort": 5,
+          "keywords": "",
+          "minFilePath": "//yun.baoxiaohe.com/render-hdr/3dd5740e-1f34-4983-b531-f72d8ae58bf5.glb",
+          "filePath": "//yun.baoxiaohe.com/render-hdr/3dd5740e-1f34-4983-b531-f72d8ae58bf5.glb",
+          "meshType": "base",
+          "size": "",
+          "collect": null
+        },
+        {
+          "id": 164,
+          "name": "四棱锥",
+          "remark": "",
+          "cateId": 1,
+          "cover": "//yun.baoxiaohe.com/op-material/039730cd-910f-4902-948a-19620e0240b8.png",
+          "sort": 6,
+          "keywords": "",
+          "minFilePath": "//yun.baoxiaohe.com/render-hdr/26003b60-2eaa-4379-be1c-3d95c7768fcb.glb",
+          "filePath": "//yun.baoxiaohe.com/render-hdr/26003b60-2eaa-4379-be1c-3d95c7768fcb.glb",
+          "meshType": "base",
+          "size": "",
+          "collect": null
+        },
+        {
+          "id": 165,
+          "name": "圆锥体",
+          "remark": "",
+          "cateId": 1,
+          "cover": "//yun.baoxiaohe.com/op-material/5e8be3f4-7b0c-4f74-a80b-6143f12c71d3.png",
+          "sort": 7,
+          "keywords": "",
+          "minFilePath": "//yun.baoxiaohe.com/render-hdr/20c54485-294f-49f3-843e-cdbe70adcf97.glb",
+          "filePath": "//yun.baoxiaohe.com/render-hdr/20c54485-294f-49f3-843e-cdbe70adcf97.glb",
+          "meshType": "base",
+          "size": "",
+          "collect": null
+        },
+        {
+          "id": 166,
+          "name": "五棱柱",
+          "remark": "",
+          "cateId": 1,
+          "cover": "//yun.baoxiaohe.com/op-material/41e20728-cc8b-4a11-949d-b74aee72d012.png",
+          "sort": 8,
+          "keywords": "",
+          "minFilePath": "//yun.baoxiaohe.com/render-hdr/4002e6f8-4f30-4fa0-8aa1-11f970cc91a3.glb",
+          "filePath": "//yun.baoxiaohe.com/render-hdr/4002e6f8-4f30-4fa0-8aa1-11f970cc91a3.glb",
+          "meshType": "base",
+          "size": "",
+          "collect": null
+        }
+      ]
+    },
+    "model": {
+      "count": 3223,
+      "rows": [
+        {
+          "image": "//yun.baoxiaohe.com/admin-materials/55cb45a8-f78e-4af2-891a-116f18413685.png",
+          "knife": "//yun.baoxiaohe.com/admin-materials/a8270473-1761-4f31-838d-9d16917f84c5.png",
+          "keywords": "516920,其他",
+          "num": "516920",
+          "id": 5970,
+          "cate_info": {
+            "size_options": [
+              {
+                "simpleModelFile": "",
+                "unit": "",
+                "glbPureFile": "https://yun.baoxiaohe.com/static/blender/5969196a-26c2-44b8-8291-e3c3496510fe.glb",
+                "sizeName": "default",
+                "topRadius": "24",
+                "previewImgPath": "//yun.baoxiaohe.com/admin-materials/55cb45a8-f78e-4af2-891a-116f18413685.png",
+                "glbFile": "https://yun.baoxiaohe.com/static/blender/cf40da96-8903-443d-b6fa-0614dc7df13b.glb",
+                "shortDesc": "产品尺寸:  L：48mm  D:20mm  H:86mm",
+                "sizeFriendlyName": "",
+                "bottomRadius": "24",
+                "fullDesc": "产品尺寸:  L：48mm  D:20mm  H:86mm\n粉底棒包装",
+                "height": "60"
+              }
+            ],
+            "support_openparams": false,
+            "is_elaborate": false,
+            "print_price": "0.00",
+            "complex_type": 1,
+            "name": "个护健康面部护理粉底棒包装模型",
+            "id": 6047,
+            "cate_type": 0,
+            "can_print": false
+          },
+          "_index": "prod_model_2",
+          "_id": "5970",
+          "setting": [],
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/render/20220113/220010.jpg",
+          "knife": "//yun.baoxiaohe.com/admin-materials/ea0d7ccf-454a-466b-9249-c3b46fcfc411.png",
+          "keywords": "220010,手提袋,手提纸袋,牛皮手提袋,纸袋,袋子,茶叶,易拉罐,水果,袋,白酒,茶叶包装,酒盒,牛奶盒,洗发水,蛋糕,蛋糕盒,鸡蛋,坚果,文创,苹果,食品,矿泉水,猫粮,糕点,酸奶,日历,红酒,果脯,零食,中秋,国潮,花茶,外卖,扇子,礼品袋,工作证,筷子,袋装,书本",
+          "num": "220010",
+          "id": 17,
+          "cate_info": {
+            "size_options": [],
+            "support_openparams": true,
+            "is_elaborate": false,
+            "print_price": "1.35",
+            "complex_type": 0,
+            "name": "手提袋",
+            "id": 3,
+            "cate_type": 0,
+            "can_print": true
+          },
+          "_index": "prod_model_2",
+          "_id": "17",
+          "setting": [
+            {
+              "id": 30220,
+              "modelNo": 220010,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220010/d12247b6-d967-42cf-96cd-2fa81b9e0fa5.jpg"
+            },
+            {
+              "id": 30219,
+              "modelNo": 220010,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220010/4b46430b-4463-4a4f-930b-2d1ddf7d2e5b.jpg"
+            },
+            {
+              "id": 30218,
+              "modelNo": 220010,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220010/f34d2bea-8c13-4e52-8096-fe7b4bd2e7bc.jpg"
+            },
+            {
+              "id": 30222,
+              "modelNo": 220010,
+              "material": "FLUTE",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220010/676e79c5-ec41-4a23-8ece-17e026970771.jpg"
+            },
+            {
+              "id": 30223,
+              "modelNo": 220010,
+              "material": "FLUTE",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220010/4f1eacbb-e74a-4275-b304-d1b991b60be0.jpg"
+            },
+            {
+              "id": 30221,
+              "modelNo": 220010,
+              "material": "FLUTE",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220010/2387ed67-cc46-47fa-9cdd-4b68f092f58d.jpg"
+            }
+          ],
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/render/20220113/220011.jpg",
+          "knife": "//yun.baoxiaohe.com/admin-materials/4b720360-18bc-4600-bf02-3e090bf64d2e.png",
+          "keywords": "220011,手提袋,手提纸袋,正痕手提袋,22011,大米,牛奶,手提,纸袋,袋,饮料,化妆品,奶茶,衣服,面包,帆布包,茶叶盒,零食,面条,环保,布袋,礼品袋,包,袋装,茶盒",
+          "num": "220011",
+          "id": 181,
+          "cate_info": {
+            "size_options": [],
+            "support_openparams": true,
+            "is_elaborate": false,
+            "print_price": "1.35",
+            "complex_type": 0,
+            "name": "正痕手提袋",
+            "id": 136,
+            "cate_type": 0,
+            "can_print": true
+          },
+          "_index": "prod_model_2",
+          "_id": "181",
+          "setting": [
+            {
+              "id": 28867,
+              "modelNo": 220011,
+              "material": "FLUTE",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220011/cc33ac8a-8237-49f2-9339-15c07aedf71b.jpg"
+            },
+            {
+              "id": 28870,
+              "modelNo": 220011,
+              "material": "FLUTE",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220011/6384e2a6-1b7a-445e-b8a7-11d4233d0558.jpg"
+            },
+            {
+              "id": 28871,
+              "modelNo": 220011,
+              "material": "FLUTE",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220011/8a776f31-c385-41d3-93e3-5d50e80754a7.jpg"
+            },
+            {
+              "id": 28866,
+              "modelNo": 220011,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220011/3760b5d7-8760-489e-a4d5-46f4ee660692.jpg"
+            },
+            {
+              "id": 28868,
+              "modelNo": 220011,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220011/3cb9747f-11fe-4007-ab76-b7c52855ed5c.jpg"
+            },
+            {
+              "id": 28869,
+              "modelNo": 220011,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220011/633c678e-9b0a-47f9-96ba-0a257ea1a428.jpg"
+            }
+          ],
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/render/20220113/220013.jpg",
+          "knife": "//yun.baoxiaohe.com/admin-materials/1009b704-fa8a-47d7-9a2e-4d096c310e26.png",
+          "keywords": "220013,手提袋,手提纸袋,平口手提袋,纸袋,袋,衣服,帆布包,布袋,礼品袋,袋装",
+          "num": "220013",
+          "id": 187,
+          "cate_info": {
+            "size_options": [],
+            "support_openparams": true,
+            "is_elaborate": false,
+            "print_price": "1.35",
+            "complex_type": 0,
+            "name": "平口手提袋",
+            "id": 141,
+            "cate_type": 0,
+            "can_print": true
+          },
+          "_index": "prod_model_2",
+          "_id": "187",
+          "setting": [
+            {
+              "id": 30476,
+              "modelNo": 220013,
+              "material": "FLUTE",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220013/11da70c5-609f-405b-a2b5-265bca32bb70.jpg"
+            },
+            {
+              "id": 30475,
+              "modelNo": 220013,
+              "material": "FLUTE",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220013/9c963a0c-95b0-4a09-9e74-f59f74847f0b.jpg"
+            },
+            {
+              "id": 30478,
+              "modelNo": 220013,
+              "material": "FLUTE",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220013/67c320ee-6cfa-44c5-bf25-637b00ffd139.jpg"
+            },
+            {
+              "id": 30479,
+              "modelNo": 220013,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220013/7a332e5d-0543-4bcc-8aa9-ebabffdba345.jpg"
+            },
+            {
+              "id": 30474,
+              "modelNo": 220013,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220013/94dd10fd-7301-4ff4-8380-d96405d909c0.jpg"
+            },
+            {
+              "id": 30477,
+              "modelNo": 220013,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220013/1d842b7f-a216-41e0-81b0-a4374e4b6f15.jpg"
+            }
+          ],
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/admin-materials/21e27bdc-30fe-4de3-aa77-855698598ae7.png",
+          "knife": "//yun.baoxiaohe.com/admin-materials/474a52b0-5e6e-4845-8d65-eb16b6522177.png",
+          "keywords": "501000,瓶子,塑料瓶,包装,瓶体/罐体,饮料瓶,水瓶,茉莉花茶,生茶,乌龙茶,东方树叶,冰红茶,绿茶,盐汽水,橙汁,蓝莓汁,山楂",
+          "num": "501000",
+          "id": 626,
+          "cate_info": {
+            "size_options": [
+              {
+                "unit": "",
+                "glbPureFile": "https://yun.baoxiaohe.com/static/blender/622f65a8-c240-4f99-8e70-f11941fd2af5.glb",
+                "sizeName": "default",
+                "topRadius": "210",
+                "previewImgPath": "//yun.baoxiaohe.com/admin-materials/21e27bdc-30fe-4de3-aa77-855698598ae7.png",
+                "glbFile": "https://yun.baoxiaohe.com/static/blender/cb553176-d322-42c1-9e25-235fcb2d5680.glb",
+                "shortDesc": "产品尺寸：L:60mm  W:60mm  H:180mm",
+                "sizeFriendlyName": "",
+                "bottomRadius": "110",
+                "fullDesc": "包装贴图尺寸：L:210mm  H:110mm\n常见于食品饮料、液体饮料、饮用水的收纳\n参考品牌/产品：\n建议容量：",
+                "height": "0"
+              },
+              {
+                "simpleModelFile": "",
+                "unit": "",
+                "glbPureFile": "https://yun.baoxiaohe.com/static/blender/b576c3da-33bd-4ee4-a3ac-becc9f05dc0b.glb",
+                "sizeName": "default1",
+                "topRadius": "180",
+                "previewImgPath": "//yun.baoxiaohe.com/static/blender/665aa173-e06e-432c-b93b-b20a87488af3.png",
+                "glbFile": "https://yun.baoxiaohe.com/static/blender/650d71cd-9e0f-469c-aead-ee20b2c9750a.glb",
+                "shortDesc": "产品尺寸：L:50mm  W:50mm  H:175mm",
+                "sizeFriendlyName": "",
+                "bottomRadius": "120",
+                "fullDesc": "包装贴图尺寸：L:180mm  H:120mm\n常见于食品饮料、液体饮料、饮用水的收纳\n参考品牌/产品：\n建议容量：380ml",
+                "height": "0"
+              },
+              {
+                "simpleModelFile": "",
+                "unit": "",
+                "glbPureFile": "https://yun.baoxiaohe.com/static/blender/c65c9ea5-5580-4bf6-b31f-168c46244339.glb",
+                "sizeName": "default2",
+                "topRadius": "210",
+                "previewImgPath": "//yun.baoxiaohe.com/static/blender/a06431dd-acaf-4cd3-b95f-886df731b1b2.png",
+                "glbFile": "https://yun.baoxiaohe.com/static/blender/ce75a813-dd84-41f9-b5be-814e58f2b5f3.glb",
+                "shortDesc": "产品尺寸：L:60mm  W:60mm  H:200mm",
+                "sizeFriendlyName": "",
+                "bottomRadius": "145",
+                "fullDesc": "包装贴图尺寸：L:210mm  H:145mm\n常见于食品饮料、液体饮料、饮用水的收纳\n参考品牌/产品：\n建议容量：500ml",
+                "height": "0"
+              }
+            ],
+            "support_openparams": false,
+            "is_elaborate": false,
+            "print_price": "0.12",
+            "complex_type": 1,
+            "name": "液体饮料食品饮料塑料瓶包装模型4",
+            "id": 593,
+            "cate_type": 0,
+            "can_print": false
+          },
+          "_index": "prod_model_2",
+          "_id": "626",
+          "setting": [
+            {
+              "id": 1413,
+              "modelNo": 501000,
+              "material": "PLASTIC_GLOSSY",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/501000/ee0489fb-9e44-4bd7-b08f-820210acfd66.jpg"
+            }
+          ],
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/admin-materials/0d5cbb4a-cf8b-4ba7-9db8-1f431cbecd88.jpg",
+          "knife": "//yun.baoxiaohe.com/admin-materials/f4bae40c-a511-44e7-9365-6f8a7088050f.png",
+          "keywords": "430020,软包装,三边封袋,包装",
+          "num": "430020",
+          "id": 4017,
+          "cate_info": {
+            "size_options": [
+              {
+                "unit": "",
+                "glbPureFile": "//oss.baoxiaohe.com/rapid_render/model_glb/bae3c5eb7401879f9167f9d24686e5c1.glb",
+                "sizeName": "default",
+                "topRadius": "100",
+                "previewImgPath": "//yun.baoxiaohe.com/admin-materials/0d5cbb4a-cf8b-4ba7-9db8-1f431cbecd88.jpg",
+                "seal": "5",
+                "glbFile": "https://yun.baoxiaohe.com/static/blender/c6b8a539-2c5a-493d-a2b1-37ec7a1d38af.glb",
+                "shortDesc": "产品尺寸：L:100mm  H:150mm",
+                "sizeFriendlyName": "",
+                "bottomRadius": "150",
+                "fullDesc": "包装贴图尺寸：L:100mm  H:150mm\n常见于面膜,脚膜，手膜，眼膜,颈膜的收纳\n参考品牌/产品：百雀羚面膜\n建议容量：30ml",
+                "height": "0"
+              },
+              {
+                "unit": "",
+                "glbPureFile": "//oss.baoxiaohe.com/rapid_render/model_glb/cd085a2eff244c34f1da6dd910c18d8b.glb",
+                "sizeName": "default1",
+                "topRadius": "120",
+                "previewImgPath": "//yun.baoxiaohe.com/render/20210624/9a7a48ab-1c63-4fb2-aa59-901e2e9a8cf80001.jpg",
+                "seal": "5",
+                "glbFile": "https://yun.baoxiaohe.com/static/blender/979694ee-c859-4a46-8b26-fd62ef1e33f6.glb",
+                "shortDesc": "产品尺寸：L:120mm  H:170mm",
+                "sizeFriendlyName": "",
+                "bottomRadius": "170",
+                "fullDesc": "包装贴图尺寸：L:120mm  H:170mm\n常见于面膜,脚膜，手膜，眼膜,颈膜的收纳\n参考品牌/产品：悦诗风吟面膜\n建议容量：25ml",
+                "height": "0"
+              },
+              {
+                "unit": "",
+                "glbPureFile": "//oss.baoxiaohe.com/rapid_render/model_glb/fe8df5aef30e7ce63908198eedee9885.glb",
+                "sizeName": "default2",
+                "topRadius": "155",
+                "previewImgPath": "//yun.baoxiaohe.com/render/20210624/6a84ee85-e8a2-4050-b265-8564e7eb11650001.jpg",
+                "seal": "5",
+                "glbFile": "https://yun.baoxiaohe.com/static/blender/d094e90a-858a-42b6-aded-beed27b922e7.glb",
+                "shortDesc": "产品尺寸：L:155mm  H:155mm",
+                "sizeFriendlyName": "",
+                "bottomRadius": "155",
+                "fullDesc": "包装贴图尺寸：L:155mm  H:155mm\n常见于面膜,脚膜，手膜，眼膜,颈膜的收纳\n参考品牌/产品：一叶子面膜\n建议容量：25ml",
+                "height": "0"
+              }
+            ],
+            "support_openparams": true,
+            "is_elaborate": false,
+            "print_price": "0.15",
+            "complex_type": 1,
+            "name": "三边封袋",
+            "id": 4076,
+            "cate_type": 0,
+            "can_print": false
+          },
+          "_index": "prod_model_2",
+          "_id": "4017",
+          "setting": [
+            {
+              "id": 30806,
+              "modelNo": 430020,
+              "material": "PLASTIC_GLOSSY",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/600010/6164ba56-6559-4394-bbcf-a93718dedf72.jpg"
+            },
+            {
+              "id": 30807,
+              "modelNo": 430020,
+              "material": "PLASTIC_MATT",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/600010/8b01aec8-0dd5-48e4-bbe6-dccbec987376.jpg"
+            },
+            {
+              "id": 30805,
+              "modelNo": 430020,
+              "material": "METAL_GLOSSY",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/600010/03e24196-af96-4e04-9351-addf2ea73e2a.jpg"
+            },
+            {
+              "id": 30804,
+              "modelNo": 430020,
+              "material": "METAL_MATT",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/600010/8c98fc84-4188-469f-a8ca-6cac76991312.jpg"
+            }
+          ],
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/render/20220113/220012.jpg",
+          "knife": "//yun.baoxiaohe.com/admin-materials/2874e90e-62da-49bf-b34c-2959fc9a1319.png",
+          "keywords": "220012,手提袋,手提纸袋,反糊正痕手提袋,宠物,礼品袋",
+          "num": "220012",
+          "id": 182,
+          "cate_info": {
+            "size_options": [],
+            "support_openparams": true,
+            "is_elaborate": false,
+            "print_price": "1.35",
+            "complex_type": 0,
+            "name": "反糊正痕手提袋",
+            "id": 137,
+            "cate_type": 0,
+            "can_print": true
+          },
+          "_index": "prod_model_2",
+          "_id": "182",
+          "setting": [
+            {
+              "id": 30249,
+              "modelNo": 220012,
+              "material": "FLUTE",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220012/896448b3-faf7-467e-b36b-f077c898afe2.jpg"
+            },
+            {
+              "id": 28872,
+              "modelNo": 220012,
+              "material": "FLUTE",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220012/22cd7c55-dc99-4dd0-af01-da2657baa42b.jpg"
+            },
+            {
+              "id": 28873,
+              "modelNo": 220012,
+              "material": "FLUTE",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220012/3c4e97ec-c998-45bb-908a-2d11fc70e316.jpg"
+            },
+            {
+              "id": 30248,
+              "modelNo": 220012,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220012/30e660f1-057e-4af8-b9ca-1b3d875e1835.jpg"
+            },
+            {
+              "id": 30246,
+              "modelNo": 220012,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220012/49be7286-7dab-4f9d-b41d-ae7a40605828.jpg"
+            },
+            {
+              "id": 30247,
+              "modelNo": 220012,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/220012/b15ec473-c724-4a40-82fb-79e105e29fc1.jpg"
+            }
+          ],
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/render/20220113/100010.jpg",
+          "knife": "//yun.baoxiaohe.com/admin-materials/ee11054f-f163-467a-bb9f-d09dad4d5632.png",
+          "keywords": "100010,纸盒,双插盒,包装,管式盒,反向插锁盒,茶叶,咖啡,盲盒,牙膏,奶茶,牙膏盒,洗发水,矿泉水,杯套,薯片,环保",
+          "num": "100010",
+          "id": 6,
+          "cate_info": {
+            "size_options": [],
+            "support_openparams": true,
+            "is_elaborate": false,
+            "print_price": "0.44",
+            "complex_type": 0,
+            "name": "反向插锁盒",
+            "id": 7,
+            "cate_type": 0,
+            "can_print": true
+          },
+          "_index": "prod_model_2",
+          "_id": "6",
+          "setting": [
+            {
+              "id": 524,
+              "modelNo": 100010,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/100010/5973a083-d7ba-4651-b962-fa3e5c424f27.jpg"
+            },
+            {
+              "id": 525,
+              "modelNo": 100010,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/100010/8c870477-39e6-426c-8116-63f32e68a522.jpg"
+            },
+            {
+              "id": 523,
+              "modelNo": 100010,
+              "material": "WHITE_BOARD",
+              "image": "https://yun.baoxiaohe.com/model_image_3d/100010/3007a041-b207-4765-b685-52c6159168fa.jpg"
+            }
+          ],
+          "collect": null
+        }
+      ]
+    },
+    "template": {
+      "count": 6000,
+      "rows": [
+        {
+          "image": "//yun.baoxiaohe.com/render/20220601/26865700001.jpg",
+          "print_price": "0.18",
+          "keywords": "行业,食品饮料,风格,休闲,简洁,清新,扁平,用途,外包装,销售包装,材质,塑料,601750,简约风,糖果,果汁软糖,苹果果汁软糖,糖果包装,果汁软糖包装,苹果果汁软糖包装,简约风苹果果汁软糖包装",
+          "quality_grade": 4,
+          "project_id": 6018501,
+          "price": 85,
+          "collectCount": 62,
+          "knife_image": "//yun.baoxiaohe.com/template/d93851dc-f301-425f-8f51-e6f6911712a5.jpg",
+          "id": 27693,
+          "viewCount": 18087,
+          "title": "苹果果汁软糖塑料袋包装设计",
+          "can_print": false,
+          "_index": "prod_template_2",
+          "_id": "27693",
+          "price_vip": null,
+          "price_vip_pro": 42.5,
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/render/20220225/18149490001.jpg",
+          "print_price": "0.12",
+          "keywords": "行业,食品饮料,风格,休闲,简洁,卡通,清新,手绘,用途,外包装,销售包装,材质,塑料,600380,卡通风,冷饮,雪糕,水果雪糕,西瓜味雪糕,雪糕包装设计,水果雪糕包装设计,西瓜味雪糕包装设计,卡通风西瓜味雪糕包装设计",
+          "quality_grade": 4,
+          "project_id": 3988379,
+          "price": 65,
+          "collectCount": 54,
+          "knife_image": "//yun.baoxiaohe.com/template/ed8fa574-4525-4019-96c3-2cefbe540e97.jpg",
+          "id": 22455,
+          "viewCount": 17402,
+          "title": "西瓜味雪糕塑料袋包装设计",
+          "can_print": false,
+          "_index": "prod_template_2",
+          "_id": "22455",
+          "price_vip": null,
+          "price_vip_pro": 32.5,
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/render/20211214/c0d306c2-8a29-47c8-b78e-61ab6770fef70001.jpg",
+          "print_price": "0.39",
+          "keywords": "行业,食品饮料,风格,休闲,简洁,清新,时尚,手绘,用途,外包装,销售包装,今日推荐,500780,时尚简洁风,饮料冲调,果汁饮料,橙汁,橙汁饮料瓶包装设计,橙汁饮料瓶标贴设计,简约风橙汁饮料瓶包装设计,果汁饮料瓶包装设计",
+          "quality_grade": 3,
+          "project_id": 2271304,
+          "price": 60,
+          "collectCount": 228,
+          "knife_image": "//oss.baoxiaohe.com/design/t/p/6e99c45bba95e570f825e8ea9f1e14e722600dd1.jpeg",
+          "id": 14414,
+          "viewCount": 62527,
+          "title": "橙汁饮料玻璃瓶包装设计",
+          "can_print": false,
+          "_index": "prod_template_2",
+          "_id": "14414",
+          "price_vip": 30,
+          "price_vip_pro": 0,
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/contribution/contribution/76584fa9-396b-4262-8ca3-d6fe19653be0.jpg",
+          "print_price": "0.10",
+          "keywords": "行业,食品饮料,风格,休闲,卡通,手绘,用途,外包装,材质,白卡纸,602090,雪糕,冰淇淋",
+          "quality_grade": 4,
+          "project_id": 7492430,
+          "price": 75,
+          "collectCount": 30,
+          "knife_image": "//yun.baoxiaohe.com/template/318cdbc0-cb4b-46ed-a6b7-a5c4707e3fa4.jpg",
+          "id": 30643,
+          "viewCount": 6585,
+          "title": "巧克力冰淇淋",
+          "can_print": false,
+          "_index": "prod_template_2",
+          "_id": "30643",
+          "price_vip": null,
+          "price_vip_pro": 37.5,
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/contribution/contribution/fe18fd21-ae28-41af-83fa-27c249ed33a8.jpg",
+          "print_price": "0.39",
+          "keywords": "行业,食品饮料,风格,休闲,简洁,时尚,用途,外包装,材质,塑料,503580,饮料,茶饮,茶,植物饮品",
+          "quality_grade": 4,
+          "project_id": 7741680,
+          "price": 130,
+          "collectCount": 20,
+          "knife_image": "//yun.baoxiaohe.com/template/c4ac93cb-c30f-4ded-9dab-8ead8c8cb0ea.jpg",
+          "id": 31289,
+          "viewCount": 4561,
+          "title": "乌龙茶饮包装",
+          "can_print": false,
+          "_index": "prod_template_2",
+          "_id": "31289",
+          "price_vip": null,
+          "price_vip_pro": 65,
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/render/20221031/35756970001.jpg",
+          "print_price": "2.55",
+          "keywords": "行业,数码家电,风格,休闲,简洁,扁平,商务,用途,外包装,内包装,存储包装,销售包装,材质,瓦楞纸,150010,简洁风,数码配件,键盘,键盘包装,无线键盘,无线键盘包装",
+          "quality_grade": 4,
+          "project_id": 6452842,
+          "price": 80,
+          "collectCount": 42,
+          "knife_image": "//yun.baoxiaohe.com/template/4fd44a12-e7dd-4373-9cbd-6001b9168c37.jpg",
+          "id": 28686,
+          "viewCount": 10341,
+          "title": "键盘翻盖盒包装设计",
+          "can_print": true,
+          "_index": "prod_template_2",
+          "_id": "28686",
+          "price_vip": null,
+          "price_vip_pro": 40,
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/render/20220428/23351250001.jpg",
+          "print_price": "0.25",
+          "keywords": "行业,数码家电,风格,简洁,清新,扁平,用途,外包装,销售包装,材质,白卡纸,100020,扁平风,手机配件,充电器,手机充电器,充电器包装设计,手机充电器包装设计,手机充电器包装盒,简约风手机充电器包装",
+          "quality_grade": 4,
+          "project_id": 5568868,
+          "price": 85,
+          "collectCount": 22,
+          "knife_image": "//yun.baoxiaohe.com/template/dadf4238-7a2d-49ce-862c-7921e0ad4e17.jpg",
+          "id": 26536,
+          "viewCount": 6806,
+          "title": "手机充电器纸盒包装设计",
+          "can_print": true,
+          "_index": "prod_template_2",
+          "_id": "26536",
+          "price_vip": null,
+          "price_vip_pro": 42.5,
+          "collect": null
+        },
+        {
+          "image": "//yun.baoxiaohe.com/render/20220311/18964040001.jpg",
+          "print_price": "0.73",
+          "keywords": "行业,数码家电,风格,休闲,简洁,传统,商务,用途,外包装,存储包装,销售包装,材质,瓦楞纸,生活日化,生活用品,100010,商务简洁风,家用五金,灯泡,灯泡包装设计,灯泡包装盒设计,LED灯泡包装设计,球泡灯包装设计",
+          "quality_grade": 0,
+          "project_id": 1622184,
+          "price": 60,
+          "collectCount": 33,
+          "knife_image": "//yun.baoxiaohe.com/template/30bafad3-fabd-4f24-b858-573c73a6e863.jpg",
+          "id": 10561,
+          "viewCount": 38574,
+          "title": "简约灯泡纸盒包装设计",
+          "can_print": true,
+          "_index": "prod_template_2",
+          "_id": "10561",
+          "price_vip": 30,
+          "price_vip_pro": 0,
+          "collect": null
+        }
+      ]
+    },
+    "decorator": {
+      "count": 284,
+      "rows": [
+        {
+          "id": 403,
+          "name": "展架",
+          "cover": "//yun.baoxiaohe.com/op-material/ef1e8207-e5c6-46e7-93a9-dd8113958834.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/542a8877fdf23a2e1eed5f0755c07fee.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/542a8877fdf23a2e1eed5f0755c07fee.glb",
+          "keyword": "展架",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 401,
+          "name": "草莓2",
+          "cover": "//oss.baoxiaohe.com/rapid_render/output/rrbyiniq2fwt6tj9t5.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/d7d0c3ca358fe38720788a73da3f074c.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/d7d0c3ca358fe38720788a73da3f074c.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 400,
+          "name": "草莓1",
+          "cover": "//oss.baoxiaohe.com/rapid_render/output/rr341mywiems1e99xi.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/5878fa04fa4fc7187b1f5097451de6b2.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/5878fa04fa4fc7187b1f5097451de6b2.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 399,
+          "name": "石头5",
+          "cover": "//yun.baoxiaohe.com/op-material/47213bc4-62eb-4029-9c0e-05e2c99a52e1.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/592f9fcacbf26f844fd3ef74e31fb70d.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/592f9fcacbf26f844fd3ef74e31fb70d.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 398,
+          "name": "石头4",
+          "cover": "//oss.baoxiaohe.com/rapid_render/output/rrvy4k6aoysorithju.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/e7ecba3d2e2593b9eae3c008683f3ad5.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/e7ecba3d2e2593b9eae3c008683f3ad5.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 397,
+          "name": "石头3",
+          "cover": "//yun.baoxiaohe.com/op-material/65bede36-a332-4df6-81cf-05c40bf5c434.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/7ad43af7424470e7098a250810304131.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/7ad43af7424470e7098a250810304131.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 396,
+          "name": "石头2",
+          "cover": "//yun.baoxiaohe.com/op-material/c7b578f2-2f47-4a83-af3e-640f81025daa.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/c6530a4fc70392e5206333a8fa18b951.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/c6530a4fc70392e5206333a8fa18b951.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 395,
+          "name": "石头1",
+          "cover": "//yun.baoxiaohe.com/op-material/ec0bc1b1-a64b-4423-94e1-8b2c762fcdef.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/d8a9b167eea0c0cae4b20ccdd6dbcdf6.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/d8a9b167eea0c0cae4b20ccdd6dbcdf6.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 394,
+          "name": "红菇娘果",
+          "cover": "//oss.baoxiaohe.com/rapid_render/output/rraw8fpoma8nw23c7g.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/efea73f54908a091231d7d3c7debad82.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/efea73f54908a091231d7d3c7debad82.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 393,
+          "name": "梨",
+          "cover": "//yun.baoxiaohe.com/op-material/8e1cda37-9f1a-46be-8a46-cb8c44a72e35.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/644c876b90f0346e0e606635392a6687.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/644c876b90f0346e0e606635392a6687.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 392,
+          "name": "山竹",
+          "cover": "//oss.baoxiaohe.com/rapid_render/output/rrxjsykh8toubycl00.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/7a4a95a8df6e72d0ae50159040845409.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/7a4a95a8df6e72d0ae50159040845409.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 391,
+          "name": "芒果",
+          "cover": "//oss.baoxiaohe.com/rapid_render/output/rrfhcklx4npkseecvp.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/edacce410a9e12e2cfa871d607fd8d6c.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/edacce410a9e12e2cfa871d607fd8d6c.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 390,
+          "name": "荔枝",
+          "cover": "//yun.baoxiaohe.com/op-material/faf30e12-f574-4e56-8e3f-582453f47663.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/b51a0abf0fe98bad28e1d8310a215dc3.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/b51a0abf0fe98bad28e1d8310a215dc3.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 389,
+          "name": "栗子",
+          "cover": "//oss.baoxiaohe.com/rapid_render/output/rrcra9hrc68d0o8cg3.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/39ed9e05fda2195f4da42e140bc7b50c.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/39ed9e05fda2195f4da42e140bc7b50c.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 388,
+          "name": "手",
+          "cover": "//yun.baoxiaohe.com/op-material/f03b0f94-9487-47ca-bb40-b9371ee5080a.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/564b058b060cdea8ed723c172b3a3088.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/564b058b060cdea8ed723c172b3a3088.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        },
+        {
+          "id": 387,
+          "name": "火龙果",
+          "cover": "//yun.baoxiaohe.com/op-material/ea23fb6c-99e0-4675-a95d-f014f2cdf37a.png",
+          "minFilePath": "//oss.baoxiaohe.com/rapid_render/glb/a1da1f8f99d8121a503d063e22f7b99e.glb",
+          "filePath": "//oss.baoxiaohe.com/rapid_render/glb/a1da1f8f99d8121a503d063e22f7b99e.glb",
+          "keyword": "",
+          "size": "",
+          "sort": 0,
+          "cateId": 1,
+          "status": 1,
+          "remark": "",
+          "isDelete": 0,
+          "meshType": "decorator",
+          "collect": null
+        }
+      ]
+    }
+  },
+  "msg": "success",
+  "time": 1790172421
+}
