@@ -1,0 +1,178 @@
+[
+  {
+    "url": "https://oss.baoxiaohe.com/renderer/i/3391aa59b39fcc6d1ebd235ed26d98ffc905c2d4.png",
+    "file": "assets/oss/3391aa59b39fcc6d1ebd235ed26d98ffc905c2d4.png",
+    "bytes": 1065585,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/renderer/i/5b474a31f3c6c69f9714a911a9e204f2bc892e4c.jpeg",
+    "file": "assets/oss/5b474a31f3c6c69f9714a911a9e204f2bc892e4c.jpeg",
+    "bytes": 16799,
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/renderer/i/6c63a8618942db05bb3ec5eeb69b7935df0b8b6d.png",
+    "file": "assets/oss/6c63a8618942db05bb3ec5eeb69b7935df0b8b6d.png",
+    "bytes": 1198,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/renderer/m/167aa17beedefc246d1a659e12e29f55b1c3691a.gltf",
+    "file": "assets/oss/167aa17beedefc246d1a659e12e29f55b1c3691a.gltf",
+    "bytes": 3076833,
+    "contentType": "model/gltf+json"
+  },
+  {
+    "url": "https://yun.baoxiaohe.com/admin-materials/f22065d9-22be-4c1d-a87e-335f24cdf95f.png",
+    "file": "assets/yun/f22065d9-22be-4c1d-a87e-335f24cdf95f.png",
+    "bytes": 7839,
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://yun.baoxiaohe.com/render-hdr/8e43a41e-035d-4588-b080-c5750564f885.hdr",
+    "file": "assets/yun/8e43a41e-035d-4588-b080-c5750564f885.hdr",
+    "bytes": 1609030,
+    "contentType": "text/x-mpsub"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rrkotwyjjsbcabm4k5.png",
+    "file": "album/ir8rl1l97s_rrkotwyjjsbcabm4k5.png",
+    "bytes": 213416,
+    "albumId": 4119068,
+    "renderId": "ir8rl1l97s"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rrm5o4wflqrc2u0u44.png",
+    "file": "album/ireson63pj_rrm5o4wflqrc2u0u44.png",
+    "bytes": 213335,
+    "albumId": 4119059,
+    "renderId": "ireson63pj"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rrf3y9pfjx2mjr2wpj.png",
+    "file": "album/irqo21fo5j_rrf3y9pfjx2mjr2wpj.png",
+    "bytes": 116869,
+    "albumId": 4119029,
+    "renderId": "irqo21fo5j"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rryo2y647nnt6nf4ir.png",
+    "file": "album/irjl1l0c1e_rryo2y647nnt6nf4ir.png",
+    "bytes": 4733304,
+    "albumId": 4117163,
+    "renderId": "irjl1l0c1e"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rrac09lqf3vm8fydqu.png",
+    "file": "album/irnjaxmogi_rrac09lqf3vm8fydqu.png",
+    "bytes": 4605428,
+    "albumId": 4113899,
+    "renderId": "irnjaxmogi"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rrwemffqld7cl55g8c.png",
+    "file": "album/irobcrnpt0_rrwemffqld7cl55g8c.png",
+    "bytes": 3177394,
+    "albumId": 4105231,
+    "renderId": "irobcrnpt0"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rr68of1r2xak5njn5e.png",
+    "file": "album/irk2t9e1ps_rr68of1r2xak5njn5e.png",
+    "bytes": 6681512,
+    "albumId": 4113901,
+    "renderId": "irk2t9e1ps"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rr1s2mc4wa4ljy4gd6.png",
+    "file": "album/irhx4d0h04_rr1s2mc4wa4ljy4gd6.png",
+    "bytes": 4828712,
+    "albumId": 4102727,
+    "renderId": "irhx4d0h04"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rr3usrfxji7v149v41.png",
+    "file": "album/irvy0y34kv_rr3usrfxji7v149v41.png",
+    "bytes": 3898033,
+    "albumId": 4113628,
+    "renderId": "irvy0y34kv"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rrsfi62o94cgxupeia.png",
+    "file": "album/ir7sif1266_rrsfi62o94cgxupeia.png",
+    "bytes": 5090167,
+    "albumId": 4105712,
+    "renderId": "ir7sif1266"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rrarkgyarc1gqkt6s5.png",
+    "file": "album/ir74e7vgmc_rrarkgyarc1gqkt6s5.png",
+    "bytes": 6771310,
+    "albumId": 3477763,
+    "renderId": "ir74e7vgmc"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rrs9fx1ttl16wtgdfu.png",
+    "file": "album/irmedvtibn_rrs9fx1ttl16wtgdfu.png",
+    "bytes": 5472829,
+    "albumId": 4102381,
+    "renderId": "irmedvtibn"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rrfcm2dh17qv723h4g.png",
+    "file": "album/irksc2uo9r_rrfcm2dh17qv723h4g.png",
+    "bytes": 3755926,
+    "albumId": 4099114,
+    "renderId": "irksc2uo9r"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rr0wr1q7kv0s5jv2rc.png",
+    "file": "album/ir2m71pspo_rr0wr1q7kv0s5jv2rc.png",
+    "bytes": 4709264,
+    "albumId": 4083221,
+    "renderId": "ir2m71pspo"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rr4mwyi8d02a5x9rnu.png",
+    "file": "album/irtg1lf6lb_rr4mwyi8d02a5x9rnu.png",
+    "bytes": 5478111,
+    "albumId": 4089073,
+    "renderId": "irtg1lf6lb"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rrxad36os5ieoerdxe.png",
+    "file": "album/irwmmcx09f_rrxad36os5ieoerdxe.png",
+    "bytes": 3624354,
+    "albumId": 4082248,
+    "renderId": "irwmmcx09f"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rrr2s5g0dxrcy37m57.png",
+    "file": "album/ir6iwhwcbx_rrr2s5g0dxrcy37m57.png",
+    "bytes": 8493133,
+    "albumId": 4078052,
+    "renderId": "ir6iwhwcbx"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rr3nhdfyh8j3uwoss9.png",
+    "file": "album/iraxjqtj9y_rr3nhdfyh8j3uwoss9.png",
+    "bytes": 8026498,
+    "albumId": 4078837,
+    "renderId": "iraxjqtj9y"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rrc094o7vw8mgxcglx.png",
+    "file": "album/irliwly2xs_rrc094o7vw8mgxcglx.png",
+    "bytes": 8686378,
+    "albumId": 4076293,
+    "renderId": "irliwly2xs"
+  },
+  {
+    "url": "https://oss.baoxiaohe.com/rapid_render/output/rrjo1ajwbcs55vtr7r.png",
+    "file": "album/ir650tx8g4_rrjo1ajwbcs55vtr7r.png",
+    "bytes": 6267756,
+    "albumId": 4063424,
+    "renderId": "ir650tx8g4"
+  }
+]
